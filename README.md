@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**Johnnycake01/Johnnycake01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate and enthusiastic Android and Kotlin developer with interest in leadership and mentorship. I understand Advanced Android Architectures and Android Test-Driven Development.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on a Fully Digital Banking App
+🌱 I’m currently learning c low level language
+👯 I’m looking to collaborate on Android and/or Kotlin projects
+💬 Ask me about Android and Kotlin
+📫 How to reach me:
+LinkedIn: https://www.linkedin.com/in/johnson-oyesina-55a19b166/
+email: oyesinajohnson@gmail.com
+😄 Pronouns: He
+⚡ Fun fact: I love playing chess ⚡
